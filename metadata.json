@@ -1,0 +1,7 @@
+{
+  "name": "Nexus Digital Marketing Agency",
+  "description": "A high-performance, one-page digital marketing agency website featuring a clean professional UI, mobile-first design, and an AI-powered marketing strategy assistant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
